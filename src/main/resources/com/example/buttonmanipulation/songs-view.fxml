@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.VBox?>
+
+<ScrollPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" style="-fx-padding: 0 0 0 0;-fx-background: lightskyblue;" minWidth="-Infinity" prefHeight="444.0" prefWidth="512.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <content>
+      <VBox prefHeight="200.0" prefWidth="604.0" spacing="5" style="-fx-padding: 50 50 50 50; -fx-background-color: lightskyblue;"/>
+   </content>
+</ScrollPane>

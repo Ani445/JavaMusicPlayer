@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane style="-fx-background-color: lightskyblue;" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.buttonmanipulation.MenuController">
+   <children>
+      <Button layoutX="264.0" layoutY="149.0" mnemonicParsing="false" onAction="#onclickSongList" prefHeight="26.0" prefWidth="88.0" text="Song List" />
+      <Button layoutX="264.0" layoutY="200.0" mnemonicParsing="false" onAction="#onClickEditUser" text="Edit User Info" />
+      <Button layoutX="264.0" layoutY="252.0" mnemonicParsing="false" onAction="#onclickBack" prefHeight="26.0" prefWidth="88.0" text="Back" />
+   </children>
+</AnchorPane>
